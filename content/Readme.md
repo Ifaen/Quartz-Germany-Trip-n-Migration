@@ -1,5 +1,5 @@
 #### What is this?
-This is a small notes projects made to easily share my notes with my friends in an interactive way. The notes are in Spanish because we are still learning English.
+This is a small notes project made to easily share my notes with my friends in an interactive way. The notes are in Spanish because we are still learning English.
 
 #### The reason
 A few dreams of mine are being able to learn new languages (ideally German or French), live in another country, get a cool job and resources for my personal projects, family and hobbies.
@@ -11,7 +11,7 @@ There are many reasons to be honest, but to be brief, I like their language and 
 #### My objective
 I don't know for certain if I will adapt to Germany, and I'm from a low income household so, I want to make sure to pave the path of lowest risk at first. In a way that if I am unable to continue, it doesn't become a burden.
 
-The more I know, everything here might change, but for now I want to gain experience in my country, save the max possible money and then try a [[Working Holiday]] to get to see on-site Germany. Or even via Volunteers Visa.
+The more I know, everything here might change, but for now I want to gain experience in my country, save the max possible money and then try possible paths to get to see on-site Germany. Even via Volunteers Visa which would be really helpful.
 
 After that, if everything else aligns, I want to do a Masters study in Robotics or something related to IT and settle there.
 
