@@ -3,5 +3,6 @@ El Goethe es otorgado por el Goethe-Institut, una institución cultural oficial 
 - Solicitar visa o residencia
 - Demostrar competencias lingüísticas oficiales
 
-Niveles evaluados: desde A1 a C2 del [[Common European Framework of Reference|CEFR]]
-Validez: No expira
+##### Catacteristicas:
+* ***Niveles evaluados***: desde A1 a C2 del [[Common European Framework of Reference|CEFR]]
+* ***Validez***: No expira

@@ -12,4 +12,4 @@ Certifica que puedes:
 * ***Sección oral***: En persona con evaluador
 * ***Nivel evaluado***: Hasta C1 en [[Common European Framework of Reference|CEFR]]
 * ***Validez***: No expira
-* Costo: $150 - 200 USD
+* ***Costo***: $150 - 200 USD
